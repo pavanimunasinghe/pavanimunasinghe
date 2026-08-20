@@ -3,7 +3,7 @@
   # Hi there, I'm Pavani Munasinghe 👋
   ### 🚀 Software Engineer | Full-Stack & Mobile Developer
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pavanimunasinghe/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pavanimunasinghe1@gmail.com)
 
   <br />
@@ -50,7 +50,12 @@
 
 ---
 
-### 📊 GitHub Overview
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=pavanimunasinghe&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pavanimunasinghe&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavanimunasinghe&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
