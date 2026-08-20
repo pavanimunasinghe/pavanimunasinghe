@@ -50,18 +50,11 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Overview
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pavanimunasinghe&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavanimunasinghe&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-
-  <br /><br />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pavanimunasinghe&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
 
 ---
 
