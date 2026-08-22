@@ -1,0 +1,15 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    - cron: '0 * * * *' # පැයකට සැරයක් Auto-Update වෙනවා
+  workflow_dispatch: # Manual Run කරන්නත් පුළුවන්
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://dev.to/feed/pavanimunasinghe"
